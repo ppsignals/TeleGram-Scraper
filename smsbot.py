@@ -11,7 +11,7 @@ import time
 re="\033[1;31m"
 gr="\033[1;32m"
 cy="\033[1;36m"
-SLEEP_TIME = 297
+SLEEP_TIME = 151
 
 class main():
 
@@ -22,8 +22,8 @@ class main():
     {re} ║ {cy}├┤ │  ├┤ {re}║ ╦  ╚═╗{cy}│  ├┬┘├─┤├─┘├┤ ├┬┘
     {re} ╩ {cy}└─┘┴─┘└─┘{re}╚═╝  ╚═╝{cy}└─┘┴└─┴ ┴┴  └─┘┴└─
 
-                version : 3.1
-            youtube.com/theunknon
+                version : 3.2
+            youtube.com/peterpantradingsignals
             """)
 
     def send_sms():
